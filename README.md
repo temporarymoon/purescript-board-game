@@ -1,3 +1,4 @@
+# 🚧 This repo has been moved to [prescientmoon/purescript-board-game](https://github.com/prescientmoon/purescript-board-game) 🚧
 # Purescript halogen proof of concept
 
 A small board game proof of concept making use of:
